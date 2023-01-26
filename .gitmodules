@@ -1,0 +1,3 @@
+[submodule "submodules/RSTSecondary"]
+	path = submodules/RSTSecondary
+	url = https://github.com/ryanmaksymic/ramen2
