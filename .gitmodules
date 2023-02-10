@@ -1,3 +1,6 @@
 [submodule "Submodules/Creative"]
 	path = Submodules/Creative
 	url = https://github.com/ryanmaksymic/ramen2
+[submodule "Submodules/ArtistWork"]
+	path = Submodules/ArtistWork
+	url = https://github.com/ryanmaksymic/ramen2
